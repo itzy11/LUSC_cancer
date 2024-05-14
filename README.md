@@ -4,4 +4,4 @@
 
 ## [Tutorial for mutational signatures]()
 
-## [Tutorial of maftools for make oncoplots](https://github.com/itzy11/LUSC_cancer/blob/main/2_maftools_practical.pdf)
+## [Tutorial on maftools for creating oncoplots](https://github.com/itzy11/LUSC_cancer/blob/main/2_maftools_practical.pdf)
